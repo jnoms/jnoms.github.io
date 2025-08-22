@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Starting Principal Investigator"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Jason Nomburg"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jason Nomburg"
   pronouns         : # example: "she/her"  
-  bio              : "Structural Bioinformatics and Virology"
+  bio              : "Starting Principal Investigator at AITHYRA | Using structural bioinformatics, functional genomics, and artificial intelligence to explore the virus-host conflict."
   location         : "Vienna"
   employer         : "AITHYRA"
   uri              : # URL
