@@ -1,0 +1,16 @@
+---
+title: "Upon infection, cellular WD repeat-containing protein 5 (WDR5) localizes to cytoplasmic inclusion bodies and enhances measles virus replication"
+collection: publications
+category: manuscripts
+
+permalink: /publication/2018-12-01-wdr5-measles-virus-replication
+excerpt: 'Research on WDR5 protein function in measles virus replication and cytoplasmic inclusion body formation.'
+date: 2018-12-01
+venue: 'Journal of Virology'
+citation: 'Ma D, George CX, Nomburg JL, Pfaller CK, Cattaneo R, &amp; Samuel CE. (2018). &quot;Upon infection, cellular WD repeat-containing protein 5 (WDR5) localizes to cytoplasmic inclusion bodies and enhances measles virus replication.&quot; <i>Journal of Virology</i>.'
+---
+
+Research on WDR5 protein function in measles virus replication and cytoplasmic inclusion body formation.
+
+
+Recommended citation: Ma D, George CX, Nomburg JL, Pfaller CK, Cattaneo R, &amp; Samuel CE. (2018). &quot;Upon infection, cellular WD repeat-containing protein 5 (WDR5) localizes to cytoplasmic inclusion bodies and enhances measles virus replication.&quot; <i>Journal of Virology</i>.
