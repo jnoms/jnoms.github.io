@@ -13,4 +13,4 @@ citation: 'Nomburg J, Zou W, Frost TC, Datta C, Vasudevan S, Starrett GJ, Imperi
 Long-read sequencing analysis revealing complex transcriptional patterns in polyomavirus genomes.
 
 
-Recommended citation: Nomburg J, Zou W, Frost TC, Datta C, Vasudevan S, Starrett GJ, Imperiale MJ, Meyerson M, &amp; DeCaprio JA. (2022). &quot;Long-read sequencing reveals complex patterns of wraparound transcription in polyomaviruses.&quot; <i>PLoS Pathogens</i>.
+**Nomburg J**, Zou W, Frost TC, Datta C, Vasudevan S, Starrett GJ, Imperiale MJ, Meyerson M, &amp; DeCaprio JA. (2022). &quot;Long-read sequencing reveals complex patterns of wraparound transcription in polyomaviruses.&quot; <i>PLoS Pathogens</i>.

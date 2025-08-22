@@ -13,4 +13,4 @@ citation: 'Wang LW, Shen H, Nobre L, Ersing I, Paulo JA, Trudeau S, Wang Z, Smit
 Investigation of how Epstein-Barr virus manipulates one-carbon metabolism to drive B cell transformation.
 
 
-Recommended citation: Wang LW, Shen H, Nobre L, Ersing I, Paulo JA, Trudeau S, Wang Z, Smith NA, Ma Y, Reinstadler B, Nomburg J, Sommermann T, Cahir-McFarland E, Gygi SP, Mootha VK, Weekes MP, &amp; Gewurz BE. (2019). &quot;Epstein-Barr-virus-induced one-carbon metabolism drives B cell transformation.&quot; <i>Cell Metabolism</i>.
+Wang LW, Shen H, Nobre L, Ersing I, Paulo JA, Trudeau S, Wang Z, Smith NA, Ma Y, Reinstadler B, **Nomburg J**, Sommermann T, Cahir-McFarland E, Gygi SP, Mootha VK, Weekes MP, &amp; Gewurz BE. (2019). &quot;Epstein-Barr-virus-induced one-carbon metabolism drives B cell transformation.&quot; <i>Cell Metabolism</i>.

@@ -13,4 +13,4 @@ citation: 'Mahale P, Nomburg J, Song JY, Steinberg M, Starrett G, Boland J, Lync
 Metagenomic investigation for novel infectious agents in systemic anaplastic large cell lymphoma.
 
 
-Recommended citation: Mahale P, Nomburg J, Song JY, Steinberg M, Starrett G, Boland J, Lynch CF, Chadburn A, Rubinstein PG, Hernandez BY, Weisenburger DD, Bullman S, &amp; Engels EA. (2021). &quot;Metagenomic analysis to identify novel infectious agents in systemic anaplastic large cell lymphoma.&quot; <i>Infectious Agents and Cancer</i>.
+Mahale P, **Nomburg J**, Song JY, Steinberg M, Starrett G, Boland J, Lynch CF, Chadburn A, Rubinstein PG, Hernandez BY, Weisenburger DD, Bullman S, &amp; Engels EA. (2021). &quot;Metagenomic analysis to identify novel infectious agents in systemic anaplastic large cell lymphoma.&quot; <i>Infectious Agents and Cancer</i>.

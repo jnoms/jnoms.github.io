@@ -13,4 +13,4 @@ citation: 'Nomburg J, Bullman S, Chung SS, Togami K, Walker MA, Griffin GK, Morg
 Comprehensive metagenomic characterization of blastic plasmacytoid dendritic cell neoplasm.
 
 
-Recommended citation: Nomburg J, Bullman S, Chung SS, Togami K, Walker MA, Griffin GK, Morgan EA, LeBoeuf NR, DeCaprio JA, Meyerson M, &amp; Lane AA. (2020). &quot;Comprehensive metagenomic analysis of blastic plasmacytoid dendritic cell neoplasm.&quot; <i>Blood Advances</i>.
+**Nomburg J**, Bullman S, Chung SS, Togami K, Walker MA, Griffin GK, Morgan EA, LeBoeuf NR, DeCaprio JA, Meyerson M, &amp; Lane AA. (2020). &quot;Comprehensive metagenomic analysis of blastic plasmacytoid dendritic cell neoplasm.&quot; <i>Blood Advances</i>.

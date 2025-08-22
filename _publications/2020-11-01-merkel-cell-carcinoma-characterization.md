@@ -13,4 +13,4 @@ citation: 'Starrett GJ, Thakuria M, Chen T, Marcelus C, Cheng J, Nomburg J, Thor
 Comprehensive clinical and molecular analysis comparing virus-positive and virus-negative Merkel cell carcinoma.
 
 
-Recommended citation: Starrett GJ, Thakuria M, Chen T, Marcelus C, Cheng J, Nomburg J, Thorner AR, Slevin MK, Powers W, Burns RT, Perry C, Piris A, Kuo FC, Rabinowits G, Giobbie-Hurder A, MacConaill LE, &amp; DeCaprio JA. (2020). &quot;Clinical and molecular characterization of virus-positive and virus-negative Merkel cell carcinoma.&quot; <i>Genome Medicine</i>.
+Starrett GJ, Thakuria M, Chen T, Marcelus C, Cheng J, **Nomburg J**, Thorner AR, Slevin MK, Powers W, Burns RT, Perry C, Piris A, Kuo FC, Rabinowits G, Giobbie-Hurder A, MacConaill LE, &amp; DeCaprio JA. (2020). &quot;Clinical and molecular characterization of virus-positive and virus-negative Merkel cell carcinoma.&quot; <i>Genome Medicine</i>.

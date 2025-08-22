@@ -13,4 +13,4 @@ citation: 'Hobbs SJ, Nomburg J, Doudna JA, &amp; Kranzusch PJ. (2024). &quot;Ani
 Discovery of conserved immune evasion mechanisms across animal and bacterial viruses.
 
 
-Recommended citation: Hobbs SJ, Nomburg J, Doudna JA, &amp; Kranzusch PJ. (2024). &quot;Animal and bacterial viruses share conserved mechanisms of immune evasion.&quot; <i>Cell</i>.
+Hobbs SJ, **Nomburg J**, Doudna JA, &amp; Kranzusch PJ. (2024). &quot;Animal and bacterial viruses share conserved mechanisms of immune evasion.&quot; <i>Cell</i>.

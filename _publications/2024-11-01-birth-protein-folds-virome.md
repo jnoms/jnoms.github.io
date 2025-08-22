@@ -13,4 +13,4 @@ citation: 'Nomburg J, Doherty EE, Price N, Bellieny-Rabelo D, Zhu YK, &amp; Doud
 Investigation of protein fold evolution and functional diversification in viral genomes.
 
 
-Recommended citation: Nomburg J, Doherty EE, Price N, Bellieny-Rabelo D, Zhu YK, &amp; Doudna JA. (2024). &quot;Birth of protein folds and functions in the virome.&quot; <i>Nature</i>.
+**Nomburg J**, Doherty EE, Price N, Bellieny-Rabelo D, Zhu YK, &amp; Doudna JA. (2024). &quot;Birth of protein folds and functions in the virome.&quot; <i>Nature</i>.

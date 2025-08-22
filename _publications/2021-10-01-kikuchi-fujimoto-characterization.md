@@ -13,4 +13,4 @@ citation: 'Nelson ND, Meng W, Rosenfeld AM, Bullman S, Pedamallu CS, Nomburg JL,
 Comprehensive characterization of immune cell populations and microbial components in Kikuchi-Fujimoto disease.
 
 
-Recommended citation: Nelson ND, Meng W, Rosenfeld AM, Bullman S, Pedamallu CS, Nomburg JL, Wertheim GB, Paessler ME, Pinkus G, Hornick JL, Meyerson M, Luning Prak ET, &amp; Pillai V. (2021). &quot;Characterization of plasmacytoid dendritic cells, microbial sequences, and identification of a candidate public T-cell clone in Kikuchi-Fujimoto disease.&quot; <i>Pediatric and Developmental Pathology</i>.
+Nelson ND, Meng W, Rosenfeld AM, Bullman S, Pedamallu CS, **Nomburg J**L, Wertheim GB, Paessler ME, Pinkus G, Hornick JL, Meyerson M, Luning Prak ET, &amp; Pillai V. (2021). &quot;Characterization of plasmacytoid dendritic cells, microbial sequences, and identification of a candidate public T-cell clone in Kikuchi-Fujimoto disease.&quot; <i>Pediatric and Developmental Pathology</i>.

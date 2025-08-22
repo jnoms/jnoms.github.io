@@ -13,4 +13,4 @@ citation: 'Ma D, George CX, Nomburg JL, Pfaller CK, Cattaneo R, &amp; Samuel CE.
 Research on WDR5 protein function in measles virus replication and cytoplasmic inclusion body formation.
 
 
-Recommended citation: Ma D, George CX, Nomburg JL, Pfaller CK, Cattaneo R, &amp; Samuel CE. (2018). &quot;Upon infection, cellular WD repeat-containing protein 5 (WDR5) localizes to cytoplasmic inclusion bodies and enhances measles virus replication.&quot; <i>Journal of Virology</i>.
+Ma D, George CX, **Nomburg J**L, Pfaller CK, Cattaneo R, &amp; Samuel CE. (2018). &quot;Upon infection, cellular WD repeat-containing protein 5 (WDR5) localizes to cytoplasmic inclusion bodies and enhances measles virus replication.&quot; <i>Journal of Virology</i>.

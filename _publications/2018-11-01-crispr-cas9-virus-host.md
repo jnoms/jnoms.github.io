@@ -13,4 +13,4 @@ citation: 'Gebre M, Nomburg JL, &amp; Gewurz BE. (2018). &quot;CRISPR–Cas9 gen
 Review of CRISPR-Cas9 applications for studying virus-host interactions and viral pathogenesis.
 
 
-Recommended citation: Gebre M, Nomburg JL, &amp; Gewurz BE. (2018). &quot;CRISPR–Cas9 genetic analysis of virus–host interactions.&quot; <i>Viruses</i>.
+Gebre M, **Nomburg J**L, &amp; Gewurz BE. (2018). &quot;CRISPR–Cas9 genetic analysis of virus–host interactions.&quot; <i>Viruses</i>.

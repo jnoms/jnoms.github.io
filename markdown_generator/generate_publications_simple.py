@@ -70,7 +70,11 @@ with open("publications_nomburg.tsv", 'r', encoding='utf-8') as f:
         if len(str(row['paper_url'])) > 5:
             md += "\n\n<a href='" + str(row['paper_url']) + "'>Download paper here</a>\n" 
             
-        md += "\n\nRecommended citation: " + html_escape(row['citation'])
+        # Bold the author's name in citation
+        citation = html_escape(row['citation'])
+        citation = citation.replace("Nomburg J", "**Nomburg J**")
+        citation = citation.replace("Nomburg JL", "**Nomburg JL**")
+        md += "\n\n" + citation
         
         # Write the markdown file
         md_filename = os.path.basename(md_filename)
