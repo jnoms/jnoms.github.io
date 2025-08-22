@@ -13,4 +13,4 @@ I did my postdoctoral fellowship in the lab of Jennifer Doudna at the Gladstone 
 
 I completed my Ph.D. in Virology from Harvard in 2022 in the labs of Jim DeCaprio and Matthew Meyerson. I led studies on diverse topics, including the role of oral bacteria in esophageal cancers, viral discovery efforts in human cancers, and the transcriptional dynamics of SARS-CoV-2 and polyomaviruses. 
 
-I completed by BA in Biology from the University of California, Santa Barbara, as part of the College of Creative Studies, in 2017. As an undergraduate, I worked in the lab of Zach Ma to investigate the association between a histone methyltransferase subunit and Measles virus.
+In 2017 I completed by BA in Biology from the University of California, Santa Barbara, as part of the College of Creative Studies. As an undergraduate, I worked in the lab of Zach Ma to investigate the association between a histone methyltransferase subunit and Measles virus.
