@@ -23,7 +23,7 @@ repository               : "jnoms/jnoms.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jason Nomburg, Ph.D. | Starting Principal Investigator at AITHYRA"
+  name             : "Jason Nomburg, Ph.D.\nStarting Principal Investigator at AITHYRA"
   pronouns         : # example: "she/her"  
   bio              : "My lab uses structural bioinformatics, functional genomics, and artificial intelligence to explore the virus-host conflict."
   location         : "Vienna"
