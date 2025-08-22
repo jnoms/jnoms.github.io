@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jason Nomburg"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Structural Bioinformatics and Virology"
   location         : "Vienna"
   employer         : "AITHYRA"
   uri              : # URL
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=w-_H1e0AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-7807-8658"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Jason+Nomburg"
   researchgate     : # URL
