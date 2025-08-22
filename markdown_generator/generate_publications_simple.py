@@ -25,7 +25,7 @@ if not os.path.exists(publications_dir):
     os.makedirs(publications_dir)
 
 # Read the publications TSV file
-with open("publications_nomburg.tsv", 'r', encoding='utf-8') as f:
+with open("publications.tsv", 'r', encoding='utf-8') as f:
     reader = csv.DictReader(f, delimiter='\t')
     
     publication_count = 0
