@@ -73,12 +73,30 @@ def create_citation(authors, year, title, journal):
 
 def generate_markdown(row):
     """Generate markdown content for a publication."""
-    date = row['Date']
+    date_raw = row['Date']
     title = row['Title'] 
     authors = row['Authors']
     journal = row['Journal']
     doi = row['DOI']
     description = row['Description']
+    
+    # Convert date from M/D/YY to YYYY-MM-DD format
+    try:
+        # Parse the date (assuming MM/DD/YY format)
+        if '/' in date_raw:
+            parts = date_raw.split('/')
+            month, day, year = parts[0], parts[1], parts[2]
+            # Handle 2-digit year (convert YY to 20YY)
+            if len(year) == 2:
+                year = '20' + year
+            # Format as YYYY-MM-DD
+            date = f"{year}-{month.zfill(2)}-{day.zfill(2)}"
+        else:
+            # Already in correct format
+            date = date_raw
+    except:
+        # Fallback to raw date if parsing fails
+        date = date_raw
     
     # Create URL slug
     slug = clean_filename(title)
