@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a starting Principal Investigator at [AITHYRA](https://www.oeaw.ac.at/aithyra) as of October 2025. My lab uses protein structure, functional genomics, and artifical intelligence to investigate the virus-host conflict. We are hiring at all levels (staff scientist, postdoc, and technician). Please email me if interested, formal job advertisements are forthcoming. For those interested in doing a Ph.D., I am participating in the [AITHYRA-CeMM Ph.D. Program](https://apply.cemm.at/) - applications are due September 10, 2025.
+I am a Principal Investigator at [AITHYRA](https://www.oeaw.ac.at/aithyra) as of October 2025. My lab uses protein structure, functional genomics, and artifical intelligence to investigate the virus-host conflict. We are hiring at all levels (staff scientist, postdoc, and technician). Please email me if interested, formal job advertisements are forthcoming. For those interested in doing a Ph.D., I am participating in the [AITHYRA-CeMM Ph.D. Program](https://apply.cemm.at/) - applications are due September 10, 2025.
 
 I did my postdoctoral fellowship in the lab of Jennifer Doudna at the Gladstone Institutes from 2022-2025. As part of this work, I used protein structure to reveal the function of viral proteins. A special emphasis of my work was the identification of viral immune antagonists. As part of this work, I discovered a conserved mechanism of immune antagonism employed by viruses that infect animals and viruses that infect bacteria. 
 
